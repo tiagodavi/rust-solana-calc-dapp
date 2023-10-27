@@ -2,6 +2,6 @@
 
 How to execute it?
 
-$ npm i 
-$ cargo build
-$ anchor test
+- $ npm i 
+- $ cargo build
+- $ anchor test
